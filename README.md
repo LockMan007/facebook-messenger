@@ -16,15 +16,12 @@ https://www.virustotal.com/gui/file/3a2606137e25f2be096d09c08fc214711f08603291f0
 If you believe this is malicious, copy the source code and make your own witht he code below:
 
 Public Class Form1
-
     Private Async Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Await WebView21.EnsureCoreWebView2Async()
         WebView21.CoreWebView2.Navigate("https://www.facebook.com/messages")
     End Sub
-
     Private Sub Form1_Resize(sender As Object, e As EventArgs) Handles Me.Resize
         WebView21.Height = Me.Height - 41
         WebView21.Width = Me.Width - 18
     End Sub
-    
 End Class
