@@ -13,7 +13,7 @@ SecureAge: Malicious
 My comment, explaining what this is, what it does, and the source code:
 https://www.virustotal.com/gui/file/3a2606137e25f2be096d09c08fc214711f08603291f00f379fa682e340bf09b2/community
 
-If you believe this is malicious, copy the source code and make your own witht he code below:
+If you believe this is malicious, copy the source code and make your own with the code below:
 
 Public Class Form1
     Private Async Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
