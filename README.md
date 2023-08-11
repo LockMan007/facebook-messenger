@@ -15,4 +15,4 @@ https://www.virustotal.com/gui/file/3a2606137e25f2be096d09c08fc214711f08603291f0
 
 If you believe this is malicious, copy the source code and make your own with the code below:
 
-https://github.com/LockMan007/facebook-messenger/blob/90126e22ff62801e41e11c76cbf74e20ae269572/Form1.vb#L1-L17
+https://github.com/LockMan007/facebook-messenger/blob/1de9202964241aea6682cb77debc370d663105dc/Form1.vb#L1-L11
