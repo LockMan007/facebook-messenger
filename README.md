@@ -1,3 +1,5 @@
+1/11/2024 Some security update broke this app. I will check and see if i can fix it.
+
 # facebook-messenger
 Facebook Messenger that is simply a web browser that opens "facebook.com/messages".
 
