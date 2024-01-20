@@ -9,6 +9,11 @@ This allows Drag and Drop of images, for people who the Windows Version just sho
 
 ![facebook-messenger-website-standalone-webview21-](https://github.com/LockMan007/facebook-messenger/assets/13595927/23aa34ec-49da-4cdc-9218-438f569cd368)
 
+v1.1 VirusTotal
+https://www.virustotal.com/gui/file/51ef7284ba9675d39d15e11ce322bf8bcb6152119322722a7bd00b435370aeb3/
+(1 flag: Bkav Pro - W32.AIDetectMalware.CS)
+
+V1.0 VirusTotal
 https://www.virustotal.com/gui/file/3a2606137e25f2be096d09c08fc214711f08603291f00f379fa682e340bf09b2/
 
 (for reasons unknown)
