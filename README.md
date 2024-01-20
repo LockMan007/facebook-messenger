@@ -30,6 +30,6 @@ SecureAge: Malicious
 My comment, explaining what this is, what it does, and the source code:
 https://www.virustotal.com/gui/file/3a2606137e25f2be096d09c08fc214711f08603291f00f379fa682e340bf09b2/community
 
-If you believe this is malicious, copy the source code and make your own with the code below:
+If you believe this is malicious, copy the source code and make your own with the code below: (Version 1.0)
 
 https://github.com/LockMan007/facebook-messenger/blob/1de9202964241aea6682cb77debc370d663105dc/Form1.vb#L1-L11
