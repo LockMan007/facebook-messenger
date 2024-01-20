@@ -1,3 +1,5 @@
+1/19/2024 It works for me with some changes I made. Released version 1.1
+
 1/11/2024 Some security update broke this app. I will check and see if i can fix it.
 
 # facebook-messenger
