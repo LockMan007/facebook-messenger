@@ -11,6 +11,7 @@ This allows Drag and Drop of images, for people who the Windows Version just sho
 
 v1.1 VirusTotal
 https://www.virustotal.com/gui/file/51ef7284ba9675d39d15e11ce322bf8bcb6152119322722a7bd00b435370aeb3/
+
 (1 flag: Bkav Pro - W32.AIDetectMalware.CS)
 
 V1.0 VirusTotal
